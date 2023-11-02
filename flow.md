@@ -1,5 +1,5 @@
 ```mermaid
-graph TD
+graph TD;
 
 subgraph Matemática e Estatística
     subgraph Matemática
@@ -49,10 +49,10 @@ subgraph Para o Domínio de Tecnologia
         f6[SQL]
 end
 
-a1 --> a2 --> a3 --> a7
-a4 --> a5 --> a6
-a3 --> a8 --> a9
-a4 --> a10 --> a11 --> a12
-b1 --> c1 --> c2 --> c3 --> c4 --> c5 --> c6 --> c7 --> c8 --> c9 --> c10
-c10 --> d1 --> d2 --> d3 --> d4 --> d5 --> d6
+a1 --> a2 --> a3 --> a7;
+a4 --> a5 --> a6;
+a3 --> a8 --> a9;
+a4 --> a10 --> a11 --> a12;
+b1 --> c1 --> c2 --> c3 --> c4 --> c5 --> c6 --> c7 --> c8 --> c9 --> c10;
+c10 --> d1 --> d2 --> d3 --> d4 --> d5 --> d6;
 ```
